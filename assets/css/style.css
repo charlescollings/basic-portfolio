@@ -1,0 +1,74 @@
+.container {
+	display: flex; 
+	flex-direction: column;
+	height: 500px;
+	width: 500px;
+	background-color; green;
+}
+
+.top {
+	
+}
+
+.top-content {
+	background-color: orange;
+	
+	
+	display: flex;
+} 
+.name {
+	color: white;
+	font-size: 20px;
+	text-align: center;
+	background-color: #4aaaa5;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	padding: 20px;
+	width: 200px;
+	position: relative;
+	left: 0px;
+  }
+  
+  .nav {
+	position: absolute;
+	right: 0px;
+	padding: 20px;
+	width: 200px;
+  }
+
+  .middle-wrapper {
+	background-color: blue;
+	height: 500px;
+   
+  }
+
+  .Entire-Content-Area {
+	  width: 960px;
+	  height: 400px;
+	  background-color: gray;
+		margin: auto;   
+		display: flex; 
+		justify-content: space-between;   
+	  
+  }
+
+  .main-section {
+	width: 650px;
+	height: 260px;
+	background-color: white;
+
+  }
+
+  .sidebar {
+	width: 270px;
+	height: 100px;
+	background-color: white;
+	
+  }
+
+  .bottom {
+	background-color: green;
+	height: 100px;
+	color: white;
+	font-size: 10px;
+	text-align: center;
+	vertical-align: 
