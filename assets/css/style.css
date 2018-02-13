@@ -41,7 +41,7 @@
    
   }
 
-  .Entire-Content-Area {
+  .entire-content-area {
 	  width: 960px;
 	  height: 400px;
 	  background-color: gray;
@@ -55,6 +55,8 @@
 	width: 650px;
 	height: 260px;
 	background-color: white;
+	text-height: 30px;
+	
 
   }
 
