@@ -12,8 +12,6 @@
 
 .top-content {
 	background-color: orange;
-	
-	
 	display: flex;
 } 
 .name {
@@ -25,14 +23,15 @@
 	padding: 20px;
 	width: 200px;
 	position: relative;
-	left: 0px;
+	left: 85px;
   }
   
   .nav {
 	position: absolute;
-	right: 0px;
+	right: 85px;
 	padding: 20px;
-	width: 200px;
+	width: 270px;
+	
   }
 
   .middle-wrapper {
@@ -55,9 +54,23 @@
 	width: 650px;
 	height: 260px;
 	background-color: white;
-	text-height: 30px;
-	
+	font-size: 20px
 
+  }
+
+  .about-me {
+	  padding: 10px;
+	  border-bottom: 4px solid red;
+	  color: red;
+
+  }
+
+  .bio {
+	  margin-top: 10px;
+  }
+
+  .mypic {
+	  float: left;
   }
 
   .sidebar {
